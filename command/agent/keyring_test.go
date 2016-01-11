@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/hashicorp/consul/testutil"
+	"github.com/Unix4ever/consul/testutil"
 )
 
 func TestAgent_LoadKeyrings(t *testing.T) {

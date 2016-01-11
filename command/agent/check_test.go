@@ -13,8 +13,8 @@ import (
 	"time"
 
 	docker "github.com/fsouza/go-dockerclient"
-	"github.com/hashicorp/consul/consul/structs"
-	"github.com/hashicorp/consul/testutil"
+	"github.com/Unix4ever/consul/consul/structs"
+	"github.com/Unix4ever/consul/testutil"
 )
 
 type MockNotify struct {

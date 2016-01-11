@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/hashicorp/consul/consul/state"
-	"github.com/hashicorp/consul/consul/structs"
+	"github.com/Unix4ever/consul/consul/state"
+	"github.com/Unix4ever/consul/consul/structs"
 	"github.com/hashicorp/raft"
 )
 

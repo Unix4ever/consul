@@ -12,8 +12,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hashicorp/consul/consul"
-	"github.com/hashicorp/consul/watch"
+	"github.com/Unix4ever/consul/consul"
+	"github.com/Unix4ever/consul/watch"
 	"github.com/mitchellh/mapstructure"
 )
 

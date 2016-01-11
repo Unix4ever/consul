@@ -3,7 +3,7 @@ package command
 import (
 	"bytes"
 	"fmt"
-	"github.com/hashicorp/consul/consul"
+	"github.com/Unix4ever/consul/consul"
 	"github.com/mitchellh/cli"
 )
 

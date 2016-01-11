@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/hashicorp/consul/consul/structs"
+	"github.com/Unix4ever/consul/consul/structs"
 )
 
 func TestStateStore_PreparedQuery_isUUID(t *testing.T) {

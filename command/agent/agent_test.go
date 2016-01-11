@@ -14,9 +14,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hashicorp/consul/consul"
-	"github.com/hashicorp/consul/consul/structs"
-	"github.com/hashicorp/consul/testutil"
+	"github.com/Unix4ever/consul/consul"
+	"github.com/Unix4ever/consul/consul/structs"
+	"github.com/Unix4ever/consul/testutil"
 )
 
 var offset uint64

@@ -16,7 +16,7 @@ import (
 
 	"github.com/armon/go-metrics"
 	"github.com/armon/go-metrics/datadog"
-	"github.com/hashicorp/consul/watch"
+	"github.com/Unix4ever/consul/watch"
 	"github.com/hashicorp/go-checkpoint"
 	"github.com/hashicorp/go-syslog"
 	"github.com/hashicorp/logutils"

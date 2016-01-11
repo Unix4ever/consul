@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hashicorp/consul/consul/structs"
-	"github.com/hashicorp/consul/testutil"
+	"github.com/Unix4ever/consul/consul/structs"
+	"github.com/Unix4ever/consul/testutil"
 )
 
 func TestAgentAntiEntropy_Services(t *testing.T) {

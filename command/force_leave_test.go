@@ -3,7 +3,7 @@ package command
 import (
 	"errors"
 	"fmt"
-	"github.com/hashicorp/consul/testutil"
+	"github.com/Unix4ever/consul/testutil"
 	"github.com/hashicorp/serf/serf"
 	"github.com/mitchellh/cli"
 	"strings"

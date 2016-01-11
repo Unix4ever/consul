@@ -10,8 +10,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/hashicorp/consul/api"
-	"github.com/hashicorp/consul/command/agent"
+	"github.com/Unix4ever/consul/api"
+	"github.com/Unix4ever/consul/command/agent"
 	"github.com/mitchellh/cli"
 )
 

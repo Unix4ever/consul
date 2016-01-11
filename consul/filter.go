@@ -1,8 +1,8 @@
 package consul
 
 import (
-	"github.com/hashicorp/consul/acl"
-	"github.com/hashicorp/consul/consul/structs"
+	"github.com/Unix4ever/consul/acl"
+	"github.com/Unix4ever/consul/consul/structs"
 )
 
 type dirEntFilter struct {

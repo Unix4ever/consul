@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/hashicorp/consul/command/agent"
-	"github.com/hashicorp/consul/watch"
+	"github.com/Unix4ever/consul/command/agent"
+	"github.com/Unix4ever/consul/watch"
 	"github.com/mitchellh/cli"
 )
 

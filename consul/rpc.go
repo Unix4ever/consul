@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"github.com/armon/go-metrics"
-	"github.com/hashicorp/consul/consul/state"
-	"github.com/hashicorp/consul/consul/structs"
+	"github.com/Unix4ever/consul/consul/state"
+	"github.com/Unix4ever/consul/consul/structs"
 	"github.com/hashicorp/net-rpc-msgpackrpc"
 	"github.com/hashicorp/yamux"
 	"github.com/inconshreveable/muxado"

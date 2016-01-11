@@ -3,7 +3,7 @@ package consul
 import (
 	"fmt"
 
-	"github.com/hashicorp/consul/consul/structs"
+	"github.com/Unix4ever/consul/consul/structs"
 	"github.com/hashicorp/serf/serf"
 )
 

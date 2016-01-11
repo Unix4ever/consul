@@ -3,7 +3,7 @@ package agent
 import (
 	"errors"
 	"fmt"
-	"github.com/hashicorp/consul/testutil"
+	"github.com/Unix4ever/consul/testutil"
 	"github.com/hashicorp/serf/serf"
 	"io"
 	"io/ioutil"

@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/hashicorp/consul/consul"
-	"github.com/hashicorp/consul/consul/structs"
+	"github.com/Unix4ever/consul/consul"
+	"github.com/Unix4ever/consul/consul/structs"
 	"github.com/miekg/dns"
 )
 
